@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "24157430",
+      "name": "starting",
+      "font_class": "starting",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "24157411",
+      "name": "stopping",
+      "font_class": "stopping",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
       "icon_id": "24155665",
       "name": "running",
       "font_class": "running",
@@ -27,13 +41,6 @@
       "unicode_decimal": 59115
     },
     {
-      "icon_id": "24142708",
-      "name": "stoping",
-      "font_class": "stoping",
-      "unicode": "e6ed",
-      "unicode_decimal": 59117
-    },
-    {
       "icon_id": "24142709",
       "name": "pending",
       "font_class": "pending",
@@ -46,13 +53,6 @@
       "font_class": "enlarge",
       "unicode": "e6ef",
       "unicode_decimal": 59119
-    },
-    {
-      "icon_id": "24142711",
-      "name": "staring",
-      "font_class": "staring",
-      "unicode": "e6f0",
-      "unicode_decimal": 59120
     },
     {
       "icon_id": "24142712",
