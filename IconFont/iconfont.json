@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "24919728",
+      "name": "account-authorization",
+      "font_class": "account-authorization",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
       "icon_id": "24193173",
       "name": "move",
       "font_class": "move",
